@@ -1,0 +1,9 @@
+import React from 'react'
+
+const ServiceCardSubHeading = ({className,text}) => {
+  return (
+   <p className={`font-inter text-secondary text-4 font-normal ${className} `} >{text}</p>
+  )
+}
+
+export default ServiceCardSubHeading
