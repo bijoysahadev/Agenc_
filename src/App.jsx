@@ -10,6 +10,7 @@ import Banner from './Layouts/Banner'
 import Rating from './Layouts/Rating'
 import SubHeading from './Componets/SubHeading'
 import Service from './Layouts/Service'
+import Work from './Layouts/Work'
 const App = () => {
   return (
     <>
@@ -17,6 +18,7 @@ const App = () => {
 <Banner/>
 <Rating/>
 <Service/>
+<Work/>
     </>
   )
 }
