@@ -4,13 +4,13 @@ import ServiceCard1 from '../assets/ServioceCard1.png'
 import Heading from './Heading'
 import ServiceCardHeading from './ServiceCardHeading'
 import ServiceCardSubHeading from './ServiceCardSubHeading'
-const ServiceCard = () => {
+const ServiceCard = ({tittle,text,icon}) => {
   return (
-    <div className={`w-[424px] h-[428px] flex flex-col items-center justify-center  rounded-[20px] border  border-red-500 `} >
-        <Image src={ServiceCard1} />
+    <div className={`w-[424px] h-[428px] flex flex-col items-center justify-center  gap-2 rounded-[20px] hover:shadow-2xl duration-300   `} >
+        <Image src={icon} />
        
-        <ServiceCardHeading  text={`Web Design`}/>
-        <ServiceCardSubHeading text={`There are many variations of passages of Lorem Ipsum available, but themajority  have suffered alteration in some form, by injected humour, or randomised words which don't look.`} />
+        <ServiceCardHeading  className={`!text-[25px]`} text={tittle}/>
+        <ServiceCardSubHeading text={text} />
     </div>
   )
 }
