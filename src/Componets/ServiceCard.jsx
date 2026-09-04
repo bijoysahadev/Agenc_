@@ -6,7 +6,7 @@ import ServiceCardHeading from './ServiceCardHeading'
 import ServiceCardSubHeading from './ServiceCardSubHeading'
 const ServiceCard = ({tittle,text,icon}) => {
   return (
-    <div className={`w-[424px] h-[428px] flex flex-col items-center justify-center  gap-2 rounded-[20px] hover:shadow-2xl duration-300   `} >
+    <div className={`w-[424px] h-[428px] flex flex-col items-center justify-center   rounded-[20px] shadow-xl hover:scale-105 duration-300   `} >
         <Image src={icon} />
        
         <ServiceCardHeading  className={`!text-[25px]`} text={tittle}/>

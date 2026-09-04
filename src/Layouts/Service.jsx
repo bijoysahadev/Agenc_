@@ -17,8 +17,8 @@ const Service = () => {
     <section className={`py-[150px]`} >
         <Container>
             <Heading  className={`text-center`} tittle={`Our Provided Services`} />
-            <SubHeading className={`w-[609px] mx-auto text-center pt-5 `} text={`There are many variations of passages of Lorem Ipsum available, but themajority  have suffered alteration in some form.`}/>
-          <Flex className={`flex-wrap items-center justify-around`} >
+            <SubHeading className={`w-[609px] !text-[16px] ! pb-[50px] font-normal  mx-auto text-center pt-5 `} text={`There are many variations of passages of Lorem Ipsum available, but themajority  have suffered alteration in some form.`}/>
+          <Flex className={`flex-wrap items-center justify-around `} >
               <ServiceCard tittle={`Web Design`} text={`There are many variations of passages of Lorem Ipsum available, but themajority  have suffered alteration in some form, by injected humour, or randomised words which don't look.`} icon={ServiceCard1}/>
             <ServiceCard tittle={`UI/UX Design`} text={`There are many variations of passages of Lorem Ipsum available, but themajority  have suffered alteration in some form, by injected humour, or randomised words which don't look.`} icon={ServiceCard2}/>
             <ServiceCard tittle={`Web Development`} text={`There are many variations of passages of Lorem Ipsum available, but themajority  have suffered alteration in some form, by injected humour, or randomised words which don't look.`} icon={ServiceCard3}/>
