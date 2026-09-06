@@ -12,6 +12,7 @@ import SubHeading from './Componets/SubHeading'
 import Service from './Layouts/Service'
 import Work from './Layouts/Work'
 import Agency from './Layouts/Agency'
+import Client from './Layouts/Client'
 const App = () => {
   return (
     <>
@@ -21,6 +22,7 @@ const App = () => {
 <Service/>
 <Work/>
 <Agency/>
+<Client/>
     </>
   )
 }
