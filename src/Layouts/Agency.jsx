@@ -7,6 +7,8 @@ import Heading from '../Componets/Heading'
 import SubHeading from '../Componets/SubHeading'
 import AgecyCard from '../Componets/AgecyCard'
 import  AgencyCard1 from '../assets/AgencyCard1.png'
+import  AgencyCard2 from '../assets/AgencyCard2.png'
+import AgencyCard3 from '../assets/AgecnyCard3.png'
 const Agency = () => {
   return (
  <section className={`py-[150px]`} >
@@ -17,8 +19,8 @@ const Agency = () => {
           <SubHeading  className={`w-[508px] !pt-20 pb-20 leading-[26px]`} text={`There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.`} />
            <Flex className={`flex-wrap justify-center  `} >
              <AgecyCard tittle={`Innovative Ideas`}  text={`Because each project is different, we adapt to your business model.`} icon={AgencyCard1} />
-            <AgecyCard className={`mt-8 ml-16`} tittle={`Innovative Ideas`}  text={`Because each project is different, we adapt to your business model.`} icon={AgencyCard1} />
-            <AgecyCard className={`pt-10`} tittle={`Innovative Ideas`}  text={`Because each project is different, we adapt to your business model.`} icon={AgencyCard1} />
+            <AgecyCard className={`mt-8 ml-16`} tittle={`Innovative Ideas`}  text={`Because each project is different, we adapt to your business model.`} icon={AgencyCard2} />
+            <AgecyCard className={`pt-10`} tittle={`Innovative Ideas`}  text={`Because each project is different, we adapt to your business model.`} icon={AgencyCard3} />
            </Flex>
           </div>
         

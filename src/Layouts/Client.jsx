@@ -80,6 +80,42 @@ var settings = {
      <div className='px-3' >
        <ClientCard text1={`Rosa Farmer`}  text2={`UI Designer`}  tittle={`I had a good experience while using this app, what fascinated me was the live tracking feature There are many variations of passages of Lorem Ipsum available, but the majority.`} icon={ClientIcon3} />
      </div>
+     <div className='px-3' >
+       <ClientCard text1={`Rosa Farmer`}  text2={`UI Designer`}  tittle={`I had a good experience while using this app, what fascinated me was the live tracking feature There are many variations of passages of Lorem Ipsum available, but the majority.`} icon={ClientIcon3} />
+     </div>
+     <div className='px-3' >
+       <ClientCard text1={`Rosa Farmer`}  text2={`UI Designer`}  tittle={`I had a good experience while using this app, what fascinated me was the live tracking feature There are many variations of passages of Lorem Ipsum available, but the majority.`} icon={ClientIcon3} />
+     </div>
+     <div className='px-3' >
+       <ClientCard text1={`Rosa Farmer`}  text2={`UI Designer`}  tittle={`I had a good experience while using this app, what fascinated me was the live tracking feature There are many variations of passages of Lorem Ipsum available, but the majority.`} icon={ClientIcon3} />
+     </div>
+     <div className='px-3' >
+       <ClientCard text1={`Rosa Farmer`}  text2={`UI Designer`}  tittle={`I had a good experience while using this app, what fascinated me was the live tracking feature There are many variations of passages of Lorem Ipsum available, but the majority.`} icon={ClientIcon3} />
+     </div>
+     <div className='px-3' >
+       <ClientCard text1={`Rosa Farmer`}  text2={`UI Designer`}  tittle={`I had a good experience while using this app, what fascinated me was the live tracking feature There are many variations of passages of Lorem Ipsum available, but the majority.`} icon={ClientIcon3} />
+     </div>
+     <div className='px-3' >
+       <ClientCard text1={`Rosa Farmer`}  text2={`UI Designer`}  tittle={`I had a good experience while using this app, what fascinated me was the live tracking feature There are many variations of passages of Lorem Ipsum available, but the majority.`} icon={ClientIcon3} />
+     </div>
+     <div className='px-3' >
+       <ClientCard text1={`Rosa Farmer`}  text2={`UI Designer`}  tittle={`I had a good experience while using this app, what fascinated me was the live tracking feature There are many variations of passages of Lorem Ipsum available, but the majority.`} icon={ClientIcon3} />
+     </div>
+     <div className='px-3' >
+       <ClientCard text1={`Rosa Farmer`}  text2={`UI Designer`}  tittle={`I had a good experience while using this app, what fascinated me was the live tracking feature There are many variations of passages of Lorem Ipsum available, but the majority.`} icon={ClientIcon3} />
+     </div>
+     <div className='px-3' >
+       <ClientCard text1={`Rosa Farmer`}  text2={`UI Designer`}  tittle={`I had a good experience while using this app, what fascinated me was the live tracking feature There are many variations of passages of Lorem Ipsum available, but the majority.`} icon={ClientIcon3} />
+     </div>
+     <div className='px-3' >
+       <ClientCard text1={`Rosa Farmer`}  text2={`UI Designer`}  tittle={`I had a good experience while using this app, what fascinated me was the live tracking feature There are many variations of passages of Lorem Ipsum available, but the majority.`} icon={ClientIcon3} />
+     </div>
+     <div className='px-3' >
+       <ClientCard text1={`Rosa Farmer`}  text2={`UI Designer`}  tittle={`I had a good experience while using this app, what fascinated me was the live tracking feature There are many variations of passages of Lorem Ipsum available, but the majority.`} icon={ClientIcon3} />
+     </div>
+     <div className='px-3' >
+       <ClientCard text1={`Rosa Farmer`}  text2={`UI Designer`}  tittle={`I had a good experience while using this app, what fascinated me was the live tracking feature There are many variations of passages of Lorem Ipsum available, but the majority.`} icon={ClientIcon3} />
+     </div>
     </Slider>
   </section>
   )
