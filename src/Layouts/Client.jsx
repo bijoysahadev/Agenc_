@@ -35,7 +35,7 @@ var settings = {
   ]
 };
   return (
-  <section>
+  <section className='py-[100px]' >
     <Container>
       <Heading tittle={`Some Client Reviews`} />
       <SubHeading  className={`text-center mx-auto w-[620px] text-secondary font-normal py-12`}  text={`There are many variations of passages of Lorem Ipsum available, but themajority  have suffered alteration in some form.`}/>
