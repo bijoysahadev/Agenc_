@@ -14,6 +14,7 @@ import Work from './Layouts/Work'
 import Agency from './Layouts/Agency'
 import Client from './Layouts/Client'
 import Contact from './Layouts/Contact'
+import Footer from './Layouts/Footer'
 const App = () => {
   return (
     <>
@@ -25,6 +26,7 @@ const App = () => {
 <Agency/>
 <Client/>
 <Contact/>
+<Footer/>
     </>
   )
 }
