@@ -4,7 +4,7 @@ import { IoIosStar } from 'react-icons/io'
 import ClientICon from '../assets/clienticon.png'
 const ClientCard = ({className,tittle,icon,text1,text2}) => {
   return (
-       <div className='border border-red-500   py-14 px-14 flex flex-col  items-start justify-center gap-y-5 ' >
+       <div className='border hover:shadow-[0_10px_25px_-5px_rgba(99,102,241,0.25)] py-14 px-14 flex flex-col  items-start justify-center gap-y-5 ' >
         <div>
           <Image src={ClientICon} />
         </div>

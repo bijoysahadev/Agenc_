@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Scale down non-active side cards and make them semi-transparent */
+.slick-slide {
+  opacity: 0.5;
+  transform: scale(0.85);
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+/* Highlight and enlarge the centered active card */
+.slick-slide.slick-center {
+  opacity: 1;
+  transform: scale(1);
+}
